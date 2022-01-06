@@ -10,3 +10,6 @@ Eg: [0, 0, 0, 1] is treated as 0001 which is the binary representation of 1.
 const binaryArrayToNumber = arr => {
     return parseInt(arr.join(''),2)
 };
+
+
+console.log('test')
