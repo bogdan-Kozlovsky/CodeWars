@@ -3,7 +3,7 @@ Highest and Lowest
 
 In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
  */
-
+'456565656664'
 function highAndLow(numbers) {
     let a = numbers.split(' ').map(e => +e)
     let min = a[0]
