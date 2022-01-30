@@ -1,7 +1,6 @@
 /*
 Sum of Minimums!
-
-
+ */
 
 function sumOfMinimums(arr) {
     let b = []
