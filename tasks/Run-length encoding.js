@@ -1,7 +1,7 @@
 /*
-Array Deep Count
+Run-length encoding
 
-codewars.com/kata/596f72bbe7cd7296d1000029/train/javascript
+https://www.codewars.com/kata/546dba39fa8da224e8000467/train/javascript
  */
 
 const runLengthEncoding = a => {
